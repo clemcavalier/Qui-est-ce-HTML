@@ -1,0 +1,201 @@
+#body {
+	background-color: #FECB18;
+}
+
+
+.all { 	
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	grid-column-gap: 1em;
+	grid-row-gap: 1em;
+	width: 100%;  
+	height: auto ;
+	margin:auto;
+}
+
+
+.aleatoire {
+	width: 100%;
+	height: auto;
+
+	grid-column-start: 1; 
+	grid-column-end: 2; 
+	grid-row-start: 2; 
+	grid-row-end: 3; 
+}
+
+.logo {
+	width: 100%;
+	height: auto;
+	grid-column-start: 1; 
+	grid-column-end: 2; 
+	grid-row-start: 1; 
+	grid-row-end: 2; 
+}
+
+
+
+.conteneur {
+	width: 100%;
+	margin: auto; 
+	grid-column-start: 2; 
+	grid-column-end: 6; 
+	grid-row-start: 1; 
+	grid-row-end: 3; 
+}
+
+
+
+
+
+#conteneurquiestce img {
+	width: 15%;
+	height: auto;
+	margin:5px;
+}
+
+
+
+
+
+
+.rouge1 {
+	background-image: url("images/img1.png");
+	background-size: 100%;
+
+}
+
+.rouge2 {
+	background-image: url("images/img2.png");
+	background-size: 100%;
+
+}
+
+.rouge3 {
+	background-image: url("images/img3.png");
+	background-size: 100%;
+
+}
+
+.rouge4 {
+	background-image: url("images/img4.png");
+	background-size: 100%;
+
+}
+
+.rouge5 {
+	background-image: url("images/img5.png");
+	background-size: 100%;
+
+}
+
+.rouge6 {
+	background-image: url("images/img6.png");
+	background-size: 100%;
+
+}
+
+.rouge7 {
+	background-image: url("images/img7.png");
+	background-size: 100%;
+
+}
+
+.rouge8 {
+	background-image: url("images/img8.png");
+	background-size: 100%;
+	
+}
+
+.rouge9 {
+	background-image: url("images/img9.png");
+	background-size: 100%;
+}
+
+.rouge10 {
+	background-image: url("images/img10.png");
+	background-size: 100%;
+}
+
+.rouge11 {
+	background-image: url("images/img11.png");
+	background-size: 100%;
+}
+
+.rouge12 {
+	background-image: url("images/img12.png");
+	background-size: 100%;
+}
+
+.rouge13 {
+	background-image: url("images/img13.png");
+	background-size: 100%;
+}
+
+.rouge14 {
+	background-image: url("images/img14.png");
+	background-size: 100%;
+}
+
+.rouge15 {
+	background-image: url("images/img15.png");
+	background-size: 100%;
+}
+
+.rouge16 {
+	background-image: url("images/img16.png");
+	background-size: 100%;
+}
+
+.rouge17 {
+	background-image: url("images/img17.png");
+	background-size: 100%;
+}
+
+.rouge18 {
+	background-image: url("images/img18.png");
+	background-size: 100%;
+}
+
+.rouge19 {
+	background-image: url("images/img19.png");
+	background-size: 100%;
+}
+
+.rouge20 {
+	background-image: url("images/img20.png");
+	background-size: 100%;
+}
+
+.rouge21 {
+	background-image: url("images/img21.png");
+	background-size: 100%;
+}
+
+.rouge22 {
+	background-image: url("images/img22.png");
+	background-size: 100%;
+}
+
+.rouge23 {
+	background-image: url("images/img23.png");
+	background-size: 100%;
+}
+
+.rouge24 {
+	background-image: url("images/img24.png");
+	background-size: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
